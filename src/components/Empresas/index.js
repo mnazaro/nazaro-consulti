@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles.css";
-import axios from "axios";
+import axios from "axios"
 
 import add from "../../assets/add_icon.svg";
 import search from "../../assets/search.svg";
