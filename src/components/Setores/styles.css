@@ -1,0 +1,68 @@
+.setores{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    color:#1a1a1a;
+}
+
+.area{
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    margin-top: 20px;
+    border-radius: 10px;    
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 1rem;
+    border: none;
+    background-color: #ffffff;
+    color: #1a1a1a;
+    gap: 0.5rem;
+    position: relative;
+    
+    p{
+        margin: 0;
+    
+    }
+}
+
+.card div{
+    display: none;
+    position: absolute;
+    gap: 0.2rem;
+    padding: 0.4rem;
+    right:0;
+    bottom: 0;
+}
+
+#add{
+    background-color: #f0f0f0;
+}
+
+.card:hover{
+    border: 1px solid #047FAB;
+    cursor: pointer;
+}
+
+.card:hover div{
+    transition: 0.2s;
+    display: flex;
+}
+
+.cancelButton{
+    background-color: #f0f0f0;
+    color: #1a1a1a;
+    border: none;
+    cursor: pointer;
+}
