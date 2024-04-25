@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/nazaro-consulti/static/css/main.91d89bcb.css",
+    "main.js": "/nazaro-consulti/static/js/main.dcb74585.js",
+    "static/media/consulti_logo.svg": "/nazaro-consulti/static/media/consulti_logo.cf4fff909db06db286d2d5c63da5d0f0.svg",
+    "static/media/setores.svg": "/nazaro-consulti/static/media/setores.bc415554ceb7379b8e29f641c00f77b8.svg",
+    "static/media/add_icon.svg": "/nazaro-consulti/static/media/add_icon.2dd9b1083c3b968ff54e44376d4f7214.svg",
+    "static/media/search.svg": "/nazaro-consulti/static/media/search.10f8d0e2d505dfaae5466e7663488fdb.svg",
+    "static/media/delete_icon.svg": "/nazaro-consulti/static/media/delete_icon.a24b0879fe7de9b47d6f1fe3b5e8d88c.svg",
+    "static/media/edit.svg": "/nazaro-consulti/static/media/edit.e27f57b5b2f4f2ab8ffe682809df5852.svg",
+    "static/media/relatorios.svg": "/nazaro-consulti/static/media/relatorios.8717130048e855eb616a6531926141f1.svg",
+    "static/media/empresas.svg": "/nazaro-consulti/static/media/empresas.64ca2a9c5ee3aa076951ffba176dd6de.svg",
+    "index.html": "/nazaro-consulti/index.html",
+    "main.91d89bcb.css.map": "/nazaro-consulti/static/css/main.91d89bcb.css.map",
+    "main.dcb74585.js.map": "/nazaro-consulti/static/js/main.dcb74585.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d89bcb.css",
+    "static/js/main.dcb74585.js"
+  ]
+}
