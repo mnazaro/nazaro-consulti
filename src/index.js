@@ -3,6 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 
+window.onerror = function (message, source, lineno, colno, error) {
+  console.log('message: ', message);
+  console.log('source: ', source);
+  console.log('lineno: ', lineno);
+  console.log('colno: ', colno);
+  console.log('error: ', error);
+};
+
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
